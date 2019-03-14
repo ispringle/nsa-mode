@@ -4,12 +4,11 @@ _Now you can be like the NSA!_
 
 ## Installation
 
-A Firefox extension on FF Add-on page is pending review. In the meantime
-you can install it yourself in a few ways...
-
 ### Firefox
 
-On Firefox you can either use the `about:debugging` to use the src to
+On Firefox you can install this in three ways. The tradition add-on repo route is the easiest and least sketch. Just visit the add-on's page on Firefox [here](https://addons.mozilla.org/en-US/firefox/addon/nsa-mode/)
+
+The slightly sketchier and way 1337er way is one of the two manual methods. Either use the `about:debugging` to use the src to
 preview the extension or you can install the signed xpi file. To install
 the xpi file:
 
