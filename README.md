@@ -2,6 +2,16 @@
 
 _Now you can be like the NSA!_
 
+![nsa mode screenshot](assets/nsamode_big.png "NSA Mode")
+
+## Why
+
+This is a "Hello World" for the Firefox Add-on store. I have been playing
+with WebExtensions lately and I wanted to see what publishing an extension
+looks like, because honestly most of the WebExtensions I am working on
+will probably never be published since they are for very specific work
+usage and probably the property of my employer.
+
 ## Installation
 
 ### Firefox
@@ -35,11 +45,3 @@ And to use the debugging method:
 2. Uninstall Chrome
 3. Install Firefox
 4. See instructions for using Firefox
-
-## Why
-
-This is a "Hello World" for the Firefox Add-on store. I have been playing
-with WebExtensions lately and I wanted to see what publishing an extension
-looks like, because honestly most of the WebExtensions I am working on
-will probably never be published since they are for very specific work
-usage and probably the property of my employer.
